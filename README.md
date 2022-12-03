@@ -5,8 +5,8 @@
 
 참고 논문
 
-# bert
-# meta pseudo learning
-# few shot learning
-# self supervised learning 
-# user classification 
+bert
+meta pseudo learning
+few shot learning
+self supervised learning 
+user classification 
